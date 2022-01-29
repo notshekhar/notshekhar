@@ -1,4 +1,4 @@
-## Shekhar Tyagi (he/him) 👾
+## Shekhar Tyagi  👾
 
 I lovee open-source! On my GitHub, You will find [NPM libraries](https://www.npmjs.com/~notshekhar) and other (mostly) JavaScript-based and machine learning based projects. I am currently working with [@driffle](https://driffle.com)
 
