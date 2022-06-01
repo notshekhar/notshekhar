@@ -18,7 +18,7 @@ I lovee open-source! On my GitHub, You will find [NPM libraries](https://www.npm
 </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notshekhar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notshekhar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 If you like what I do and want me to build more such projects, maybe consider buying me a coffee 🥺👉👈
 
