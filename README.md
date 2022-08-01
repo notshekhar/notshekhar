@@ -16,7 +16,7 @@ I lovee open-source! On my GitHub, You will find [NPM libraries](https://www.npm
 
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notshekhar&layout=compact&langs_count=10&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notshekhar&layout=compact&langs_count=21&theme=dark" />
 </a>
 </p>
 
